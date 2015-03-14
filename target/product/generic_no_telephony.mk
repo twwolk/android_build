@@ -23,6 +23,7 @@ PRODUCT_PACKAGES := \
     Gallery2 \
     Email \
     Exchange2 \
+    LockClock \
     MusicFX \
     OneTimeInitializer \
     Provision \
